@@ -2,7 +2,7 @@
 
 <img src="assets/header.gif" width="1000px"><br>
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Piter1_) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-lucas-34ab75251/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:p.lucas.borges11@gmail.com?subject=Hello%20Pedro%20Lucas%20From%20Github)
 
