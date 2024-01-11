@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://github.com/piter11p/piter11p/assets/114449355/b95a4f1e-d5b4-4318-8381-ea911857034e)
+<img src="assets/header.gif" width="1000px"><br>
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/kshyun28) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pedro-lucas-34ab75251/) &nbsp;
